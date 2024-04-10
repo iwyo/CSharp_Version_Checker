@@ -1,7 +1,3 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 # C# Version Checker CS for multiple apps
 
 This CS retrieves the link and version number of the corresponding program from the previously entered PasteBin structure. I wrote it for myself because I have always been interested in how to write a simple and easy-to-use automatic update search code. This is my first solution, but maybe I will find a better solution in the future. If you are interested, feel free to download it and have fun with it. 
